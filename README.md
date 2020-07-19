@@ -1,0 +1,2 @@
+# Windows build of Lua (5.3.5) + Lua Sockets (3.0-rc1)
+MobDebug debugger (used e.g. in Intellij/CLion IDE) needs Lua Sockets to run. This package is a Windows 64-bit build of Lua containing a build of lua-sockets inside.
